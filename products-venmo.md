@@ -13,6 +13,10 @@ Peer-to-peer payment app
   * Link to prepaid checking accounts
   * Only send money to people you know
 
+# Businesses
+* Seller transaction fees of 1.9% + $0.10
+* Have both personal and business profiles
+
 # References
 * [What Is Venmo? Are There Any Fees and Is It Safe?](https://www.investopedia.com/articles/personal-finance/032415/how-safe-venmo-and-why-it-free.asp)
 * [How to Keep Your Venmo Account Private and Secure Updated](https://lifehacker.com/how-to-keep-your-venmo-account-private-and-secure-1846917861)
